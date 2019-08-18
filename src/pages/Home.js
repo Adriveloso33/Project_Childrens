@@ -12,7 +12,7 @@ export default class Home extends Component {
       <div className="App">
         <div className ="App">
         <br />
-        <h1>Validated Login Form</h1> 
+        <h1>Validated Login Formm</h1> 
               {/* <img
                 src={platziconfLogoImage}
                 alt="Platzi Conf Logo"
